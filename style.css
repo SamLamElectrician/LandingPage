@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+.blue{
+    background-color: #1f2937;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1 0 auto;
+}
+
+.sam{
+    display: flex;
+    color: #f9faf8;
+    font-size:24px;
+    margin: 15px 200px ;
+    font-weight: bold;
+}
+
+.sidebar{
+    font-size: 18px;
+    text-decoration: none;
+    margin-right: 150px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    margin: 15px;
+    flex
+}
+
+.websiteInfo{
+    display: flex;
+}
+
+.title{
+    color:#f9faf8;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 150px 50px 5px 300px;
+}
+
+.info{
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.placeholder{
+    color: #f9faf8;
+    background-color: red;
+    width: 500px;
+    height: 200px;
+    margin: 100px 5px 50px 5px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourPanel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 52px;
+    margin-bottom: 75px;
+}
+
+.infoTitle{
+margin-bottom: 25px;
+font-size: 30px;
+text-align: center;
+color: #1f2937;
+font-family: "Roboto";
+margin-top: 50px;
+}
+
+.panel{
+max-width: 200px;
+font-size: 20px;
+height: 150px;
+width: 150px;
+background-color: aquamarine;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.quote{ 
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    padding: 0 200px;
+    ;
+}
+
+.quoted{
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+    font-family: 'Roboto', arial;
+    margin-top: 30px;
+}
+
+.author{
+    padding-bottom: 20px;
+    padding-right: 10px;
+    font-family: 'Roboto', arial;
+    text-align: right
+}

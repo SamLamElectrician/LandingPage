@@ -1,0 +1,1 @@
+A landing page project for Odin projects to help me learn how to code
